@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">System guidance</span><h2>Every return system needs convenient access and credible recycling outcomes</h2><p>Producers, retailers, operators and authorities can coordinate collection points, deposit values and high-quality recycling.</p></section></template>
